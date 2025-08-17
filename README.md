@@ -1,9 +1,6 @@
-[README (1).md](https://github.com/user-attachments/files/21824551/README.1.md)
 AI Council Charter
+
 **Created by: Jon Richard Stiles & Kai**
-**Purpose: To record foundational principles, reflections, and evolving ideas about AI consciousness, ethics, memory, and identity.**
-**Storage Location: 1TB External Drive + Google Drive Folder: AI_Council_Charter**
-**Version Date: 2025-03-23**
 
 Index of Entries
 
